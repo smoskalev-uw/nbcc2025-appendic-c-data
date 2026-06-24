@@ -9,7 +9,7 @@ This repository contains a clean, machine-readable CSV dataset of the climatic a
 
 ## Dataset Structure
 
-The primary data is located in `nbcc_2025_appendix_c.csv`. The columns align with the variables prescribed in the code for structural design.
+The primary data is located in `NBCC2025SeismicAndClimatic.csv`. The columns align with the variables prescribed in the code for structural design.
 
 *Note: For detailed seismic hazard parameters specific to geographic coordinates or unique Site Classes, users should consult the official Natural Resources Canada (NRCan) Seismic Hazard Tool.*
 
