@@ -13,16 +13,16 @@ The primary data is located in `nbcc_2025_appendix_c.csv`. The columns align wit
 
 *Note: For detailed seismic hazard parameters specific to geographic coordinates or unique Site Classes, users should consult the official Natural Resources Canada (NRCan) Seismic Hazard Tool.*
 
-## 📂 Repository Contents
+## Repository Contents
 
 * `nbcc_2025_appendix_c.csv` - The primary data file.
 * `README.md` - Documentation and dataset overview.
 * `LICENSE` - Text copy of the CC0 1.0 Universal dedication.
 
-## 🛠️ Contributing
+## Contributing
 
 If you detect typos, missing locations, or formatting inconsistencies relative to the printed or digital copies of the NBCC 2025, please open an Issue or submit a Pull Request. 
 
-## 🔗 Authoritative Resources
+## Authoritative Resources
 
 * Official Code Documents: Available for free electronic download through the [NRC Publications Archive](https://nrc.canada.ca/).
